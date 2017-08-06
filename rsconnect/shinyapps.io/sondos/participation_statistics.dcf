@@ -1,0 +1,10 @@
+name: participation_statistics
+title: Participation Statistics
+account: sondos
+server: shinyapps.io
+appId: 193749
+bundleId: 889378
+url: https://sondos.shinyapps.io/participation_statistics/
+when: 1499011936.6783
+asMultiple: FALSE
+asStatic: FALSE
